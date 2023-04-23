@@ -1,0 +1,10 @@
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/release2/videos/1583882/1583882_1a1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/release2/videos/1583882/1583882_1b1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1427114-10034345-10053342/1427114-10034345-10053342_1a1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1427114-10034345-10053342/1427114-10034345-10053342_1b1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1582841/1582841_1a1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1582841/1582841_1b1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1211515/1211515_1a1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1211515/1211515_1b1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1419607/1419607_1a1.mp4
+wget https://www.sign-lang.uni-hamburg.de/meinedgs/videos/1419607/1419607_1b1.mp4
